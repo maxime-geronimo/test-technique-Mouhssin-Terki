@@ -1,0 +1,126 @@
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+  .navbar {
+    background-color: #000000;
+    height: 60px;
+  }
+  /* Add a gray background color and some padding to the footer */
+  footer {
+    background-color: #ffffff;
+    padding: 25px;
+  }
+
+
+  .menu {
+    display:inline;
+    margin:21px 15px;
+    color:#ffffff;
+  }
+  header{
+    padding-top: 60px;
+    position: relative;
+  }
+  header h1{
+    position:absolute;
+    color:#ffffff;
+    text-align: center;
+    width: 100%;
+  }
+ul li  {
+  font-size: 15px;
+  line-height: 2em;
+  color: #FFFFFF;
+  text-decoration: none;
+ 
+}
+
+ul2 li  {
+
+ display:inline;
+    margin:21px 15px;
+
+}
+
+
+
+.imgcentre {
+    position: relative;
+}
+
+.ecticentre {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    size: 250px;
+    font-weight: bold;
+}
+
+.dsgnmedia {
+  width: 103px;
+  height: 18px;
+   top: 4px;
+  left: 90px;
+  color: #FFFFFF;
+
+}
+
+  .load{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #000;
+    width: 95%;
+    font-weight: bold;
+    color: #000000;
+    font-size: 20px;
+  }
+
+.User {
+  position: relative;
+  width: 25px;
+  height: 18px;
+  object-fit: contain;
+  margin: 04px ;
+  top: 4px;
+  left: 90px;
+}
+
+.Latest-news {
+
+  width: 217px;
+  height: 48px;
+  font-family: Aleo;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+  color: var(--black);
+}
+
+/************************************************
+footer
+*************************************************/
+
+.social-links {
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.social-links ul li{
+  list-style-type: none;
+  display: inline-block;
+}
+
+.social-links ul {
+  margin-left: -40px;
+  padding-top: 15px;
+}
+
+.social-links a {
+  padding: 15px 15px;
+  font-family: 'aleoRegular', 'sans-serif';
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+
